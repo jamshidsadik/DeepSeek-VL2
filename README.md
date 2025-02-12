@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="images/logo.svg" width="60%" alt="DeepSeek LLM" />
+  <img src="images/logo.svg" width="60%" alt="DeepSeek AI" />
 </div>
 <hr>
 <div align="center">
@@ -11,7 +11,7 @@
   <a href="https://www.deepseek.com/" target="_blank">
     <img alt="Homepage" src="images/badge.svg" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://huggingface.co/spaces/deepseek-ai/deepseek-vl2-small" target="_blank">
     <img alt="Chat" src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20VL-536af5?color=536af5&logoColor=white" />
   </a>
   <a href="https://huggingface.co/deepseek-ai" target="_blank">
@@ -53,7 +53,7 @@
   <a href="https://github.com/deepseek-ai/DeepSeek-VL2/tree/main?tab=readme-ov-file#6-citation"><b>📖 Citation</b></a> <br>
   <a href="./DeepSeek_VL2_paper.pdf"><b>📄 Paper Link</b></a> |
   <a href="https://arxiv.org/abs/2412.10302"><b>📄 Arxiv Paper Link</b></a> |
-  <a href=""><b>👁️ Demo</b></a>
+  <a href="https://huggingface.co/spaces/deepseek-ai/deepseek-vl2-small"><b>👁️ Demo</b></a>
 </p>
 
 ## 1. Introduction
@@ -69,6 +69,8 @@ Zhiyu Wu*, Xiaokang Chen*, Zizheng Pan*, Xingchao Liu*, Wen Liu**, Damai Dai, Hu
 ![](./images/vl2_teaser.jpeg)
 
 ## 2. Release
+✅ <b>2025-2-6</b>: Naive Implemented Gradio Demo on Huggingface Space [deepseek-vl2-small](https://huggingface.co/spaces/deepseek-ai/deepseek-vl2-small).
+
 ✅ <b>2024-12-25</b>: Gradio Demo Example, Incremental Prefilling and VLMEvalKit Support.
 
 ✅ <b>2024-12-13</b>: DeepSeek-VL2 family released, including <code>DeepSeek-VL2-tiny</code>, <code>DeepSeek-VL2-small</code>, <code>DeepSeek-VL2</code>.
